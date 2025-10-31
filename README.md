@@ -1,4 +1,4 @@
-```markdown
+
 # Escape Velocity: An Economic Game Powered by Zama's Fully Homomorphic Encryption Technology 🚀
 
 Escape Velocity is an innovative GameFi platform designed to challenge players in a unique economic simulation where the ultimate goal is to accumulate wealth while surpassing an ever-growing "escape velocity" threshold. This complex gameplay experience is made possible by **Zama's Fully Homomorphic Encryption (FHE) technology**, ensuring that player wealth accumulation remains confidential and securely managed throughout the game.
